@@ -1,4 +1,4 @@
 #include <stdio.h>
 
 printf("");
-return 1；
+return 0；
